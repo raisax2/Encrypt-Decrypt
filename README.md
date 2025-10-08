@@ -1,6 +1,4 @@
 # Encrypt-Decrypt
-Built a Python CLI tool to encrypt and decrypt files using AES-256-GCM with PBKDF2 key derivation, ensuring data confidentiality and integrity.
-
 # Simple File Encryptor (AES-256-GCM)
 
 A lightweight Python command-line tool that encrypts and decrypts files using AES-256-GCM encryption with PBKDF2-HMAC-SHA256 key derivation. This project demonstrates practical cybersecurity concepts like authenticated encryption, password-based key generation, and secure file formatting.
